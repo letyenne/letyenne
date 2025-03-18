@@ -41,11 +41,6 @@ ___negrito e italico___
 - [x] Tarefa 1 <br>[x] Tarefa 2 
 
 
-
-
-
-
-
 <!--
 **letyenne/letyenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
