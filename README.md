@@ -1,6 +1,26 @@
 ## Hi there 👋
 
-<---Cabeçalhos--->
+## Sejam bem-vindos ao meu Mundo 🌍 !
+
+
+![gatinho](https://www.chaostheoryclass.com/uploads/1/3/1/2/131225291/cat-typing_1.gif)
+
+🌜Olá! Me chamo Letícia Enne!<br>
+🎯Scrum Master <br>
+🎓Estudante de Análise e Desenvolvimento de Sistemas
+
+[Acesse meu Linkedin](https://www.linkedin.com/in/let%C3%ADcia-enne-61b4b523b/)
+
+
+
+
+
+
+-----
+
+### Minhas tecnologias
+
+
 
 # Título 1 -> <h1>Título 1 </h1>
 ## Titulo 2 
