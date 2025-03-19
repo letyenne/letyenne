@@ -30,8 +30,9 @@
   -----------
   |Cursos | [Certificado] ()
   ------------------------
-  |Visão Computacional |  {Certificado] <br>
-  |Visão Computacional | [Certificado] ()
+  |Visão Computacional | [Certificado]() |
+  |--------------------|------------------|
+  |Visão Computacional | [Certificado]()  |
 
 
 ![Leticia´s GitHub stats](https://github-readme-stats.vercel.app/api?username=letyenne&show_icons=true&theme=radical))
