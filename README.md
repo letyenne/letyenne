@@ -37,7 +37,7 @@
 
 ![Leticia´s GitHub stats](https://github-readme-stats.vercel.app/api?username=letyenne&show_icons=true&theme=radical))
 
-![Leticia´s GitHub stats]<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyenne&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letyenne&layout=compact&langs_count=7&theme=dracula"/>
 
 # Título 1 -> <h1>Título 1 </h1>
 ## Titulo 2 
