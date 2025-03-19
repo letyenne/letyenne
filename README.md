@@ -22,6 +22,20 @@
 
 
 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"width="100px">
+
+
+  -----------
+  |Cursos | [Certificado] ()
+  ------------------------
+  |Visão Computacional |  {Certificado] <br>
+  |Visão Computacional | [Certificado] ()
+
+
+![Leticia´s GitHub stats](https://github-readme-stats.vercel.app/api?username=letyenne&show_icons=true&theme=radical))
+
 # Título 1 -> <h1>Título 1 </h1>
 ## Titulo 2 
 ### Título 3
